@@ -1,0 +1,13 @@
+{
+    "name": "ali/twig-quete",
+    "description": "twig",
+    "authors": [
+        {
+            "name": "ali",
+            "email": "ma.ramzan089@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.1"
+    }
+}
